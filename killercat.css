@@ -1,0 +1,39 @@
+body {
+    background-color: #ccff99;
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+#green {
+    color: green;
+}
+
+.emphasize {
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+#info {
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+p {
+    text-align: center;
+}
+
+#image {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#form {
+    background-color: green;
+    border-style: solid;
+    border-color: red;
+}
